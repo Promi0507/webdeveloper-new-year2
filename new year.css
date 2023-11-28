@@ -1,0 +1,237 @@
+/* common shared styles */
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    line-height: normal;
+  }
+  /* header section */
+  
+  
+  .banner-container {
+    display: flex;
+    width: 1600px;
+    height: 750px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray -0.889px 0px / 100.111% 111.51% no-repeat;
+  
+  
+  
+  }
+  .banner-image {
+  
+  }
+  .banner-img {
+    width: 80vt;
+    
+  }
+  .banner-text {
+    width: 2000px; 
+    padding: 150px;
+    text-align: center;
+    background: url(<path-to-image>), lightgray -0.889px 0px / 100.111% 111.51% no-repeat;
+  
+  
+  }
+  .nav-tittle {
+    color: #151414;
+    text-align: right;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline;
+    
+    
+    
+    
+  }
+  .p {
+    color: #444343;
+   font-size: 16px
+   font-weight: 400;
+   line-height: 26px; /* 162.5% */
+  }
+  .button {
+    width: 160px;
+    height: 64px;
+    background: #F15B22;
+  }
+  
+  /* main section styles */
+  .main{
+    background: #FFF;
+    width: 1600px;
+    height: 3229px;
+    margin: 0 auto;
+    padding: 1600 3229,;
+  }
+  
+  .about{
+    padding: 100px;
+    width: 1600px;
+    height: 3229px;
+    background: #FFF;
+  }
+  .about-container {
+    display: flex;
+   
+  }
+  
+  .about-photo {
+    width: 569px;
+    height: 666.5px;
+    fill: #D9D9D9;
+    border-radius: 527.929px;
+    background: rgba(241, 91, 34, 0.20);
+    }
+   
+  .about-info {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    width: 416px;
+    padding: 200px;
+   
+    
+    
+  }
+  
+  /* skill related styles */
+  .plane-description{
+    width: 1140px;
+    height: 300px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #FFF;
+    padding: 130px 230px;
+    border: #737272;
+  
+    
+  }
+  
+   
+  .my-plane{
+    text-align: center;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 30px;
+  
+  }
+  .my-plan-skill-description{
+    display: flex;
+    justify-content: space-around;
+    width: 1500px;
+    height: 3229px;
+    background: #FFF;
+    text-align: center;
+    
+  }
+  .my-plane{
+    text-align: center;
+  }
+  .skill{
+    text-align: center;
+    padding: 30px;
+   
+  }
+  
+  
+  
+  .skill-tittle{
+    color: #151414;
+   font-size: 30px;
+   font-weight: 700;
+  
+  }
+  .skill-description{
+    color: #737272;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+  }
+  .keep-positive{
+    background-image: url(images/watch.png);
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%);
+    margin: 130px 230px;
+  
+  
+    
+    
+  }
+  /* footer style */
+  footer{
+    display: flex;
+    gap: 100px;
+    background: #151414;
+    padding: 100px;
+    margin-top: 130px;
+    width: 1600px;
+    height: 250px;
+    flex-shrink: 0;
+    justify-content: space-evenly;
+  
+   
+  
+  }
+  .footer-column{
+    color: #FFF;
+    width: ;
+  
+  
+  }
+  .social-links a{
+   margin-right: 10px;
+   width: 175px;
+   height: 46px;
+   flex-shrink: 0;
+  
+  }
+  .contact input{
+    display: block;
+    margin-bottom: 24px;
+    
+  }
+  .contact{
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+  }
+  .email{
+    width: 250px;
+    height: 50px;
+    flex-shrink: 0;
+    background: #151414;
+    padding-left: 10px;
+    color: #F3F3F3;
+    font-size: 15px;
+    font-weight: 400;
+  
+  }
+  .button{
+    width: 150.80px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+    color: #F15B22;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 600;
+    padding-left: 10px;
+    
+  }
+  
+    
+  
+  
+  
