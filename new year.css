@@ -123,15 +123,11 @@ body {
   .my-plan-skill-description{
     display: flex;
     justify-content: space-around;
-    width: 1500px;
-    height: 3229px;
-    background: #FFF;
-    text-align: center;
+    
     
   }
-  .my-plane{
-    text-align: center;
-  }
+    
+  
   .skill{
     text-align: center;
     padding: 30px;
